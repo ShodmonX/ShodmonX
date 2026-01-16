@@ -1,52 +1,80 @@
 # 👋 Hi, I'm Shodmon Xolmurodov
 
-### 💻 Python Backend & Data Science Developer
+### 💻 Python Backend Developer
 
-I'm a mathematics student and passionate developer focused on **Backend Development**, **Data Science**, and **Web Scraping**.  
-I love building clean APIs, scalable data pipelines, and deploying machine learning models to solve real-world problems.
+I’m a mathematics student and Python backend developer focused on building **clean, scalable REST APIs** and reliable backend systems.  
+I enjoy working with modern backend stacks, designing application architecture, and writing maintainable code.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend & Databases**  
-FastAPI · Django/DRF · SQLAlchemy · PostgreSQL · Redis · Docker · Git
+**Backend**
+- Python
+- FastAPI, Django, Django REST Framework
+- SQLAlchemy
 
-**Data Science & Machine Learning**  
-Python · scikit-learn · PyTorch · Pandas · NumPy · Matplotlib · XGBoost · LightGBM
+**Databases & Caching**
+- PostgreSQL
+- SQLite
+- Redis
 
-**Web Scraping & Automation**  
-Selenium · Playwright · BeautifulSoup · Async scraping · Proxy rotation
+**DevOps & Tools**
+- Docker
+- Git
+- Linux
 
-**Mathematics**  
-Probability & Statistics · Linear Algebra · Calculus · Optimization
+**Concepts**
+- REST API
+- OOP
+- Basic DDD
+- Async programming
+- SQL optimization
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Kitob Bot](https://github.com/ShodmonX/kitob-bot-aiogram)** – Telegram bot with book recommendations, rating system, and search.
-- **[ScholarRadar](https://github.com/ShodmonX/scholarradar)** – FastAPI + Selenium scraper for collecting and serving global scholarship data.
-- **Machine Learning Experiments** – Data preprocessing, model training, and API deployment using scikit-learn and PyTorch.
+- **[Blog API](https://github.com/ShodmonX/blog-api)**  
+  REST API for a blogging platform built with FastAPI.  
+  Includes authentication, CRUD operations, relational database design, and clean API architecture.
 
-(See pinned repositories for more.)
+- **[ToDo API](https://github.com/ShodmonX/todo_api)**  
+  Backend service for task management using FastAPI and PostgreSQL.  
+  Features JWT authentication, user-based access control, status/priority logic, and SQL optimization.
+
+- **[English Vocabulary Learning](https://github.com/ShodmonX/english-vocabulary-learning)**  
+  Backend API for vocabulary learning and daily word tracking.  
+  Focused on API design, database relations, user progress tracking, and background logic.
+
+- **[Kitob Bot](https://github.com/ShodmonX/kitob-bot-aiogram)**  
+  Telegram bot for book recommendations with search, ratings, and user interaction logic.
+
+- **[ScholarRadar](https://github.com/ShodmonX/scholarradar)**  
+  Backend service built with FastAPI for collecting and serving scholarship data.  
+  Includes API design, data storage, and background scraping logic.
+
+- **REST API Practice Projects**  
+  Authentication, CRUD operations, role-based access, and database optimization using FastAPI and PostgreSQL.
+
+(See pinned repositories for more backend-related projects.)
 
 ---
 
-## 📊 GitHub Stats
+## 📦 Additional Experience
 
-![Shodmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShodmonX&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShodmonX&layout=compact&theme=radical)
+- Web scraping and automation (Selenium, Playwright)
+- Basic experience with Dockerized applications
+- Writing unit tests and working in team-based Git workflows
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [shodmonxolmurodov@gmail.com](mailto:shodmonxolmurodov@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ShodmonX](#) 
-- **Telegram:** [t.me/XolmurodovShodmon](#)
+- **Email:** shodmonxolmurodov@gmail.com  
+- **Telegram:** https://t.me/XolmurodovShodmon  
+- **GitHub:** https://github.com/ShodmonX
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect if you're interested in collaborating on exciting Python or Data Science projects!*
-
+⭐️ Feel free to explore my repositories if you're interested in backend development projects.
