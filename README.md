@@ -1,103 +1,96 @@
 # 👋 Hi, I'm Shodmon Xolmurodov
 
-### 💻 Python Backend Developer
+### Python Backend Developer | FastAPI | Telegram Bots | PostgreSQL
 
-I’m a mathematics student and Python backend developer focused on building **scalable REST APIs, asynchronous services, and reliable backend systems**.  
-I enjoy designing backend architecture, working with databases, and developing maintainable production-ready code.
+Backend developer focused on building production-ready APIs, Telegram bots,  
+and scalable backend systems.
 
-I’m particularly interested in backend system design, performance optimization, and real-world product development.
+I work with async Python services, PostgreSQL database design, background jobs,
+and Dockerized deployments on VPS. I enjoy building real products and writing
+clean, maintainable backend code.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 **Backend**
 - Python  
 - FastAPI, Django, Django REST Framework  
 - SQLAlchemy  
-- Celery (background tasks)  
-- RabbitMQ / Redis (queues & messaging)
+- Async programming  
+- REST API design  
 
-**Databases & Caching**
+**Databases**
 - PostgreSQL  
-- SQLite  
 - Redis  
+- SQLite  
+
+**Background Jobs & Messaging**
+- Celery  
+- RabbitMQ / Redis  
 
 **DevOps & Tools**
 - Docker / Docker Compose  
+- Linux / VPS deployment  
 - Git  
-- Linux  
 - Basic CI/CD  
-
-**Concepts**
-- REST API design  
-- Async programming  
-- Background jobs & queues  
-- OOP & clean architecture  
-- Basic DDD  
-- SQL optimization  
-- API security & authentication  
 
 ---
 
-## 🚀 Featured Backend Projects
+## 🚀 Featured Projects
 
-### **Blog API**
-🔗 https://github.com/ShodmonX/blog-api  
+### 🔹 Telegram AI Moderation Bot
+AI-powered Telegram bot that filters spam and enforces group rules.  
+Built with FastAPI, PostgreSQL, and Docker.  
+Includes async message processing, admin logging, and production deployment.
+
+### 🔹 English Vocabulary SRS Bot
+Telegram learning bot using spaced-repetition logic (SM-2).  
+Async FastAPI backend with PostgreSQL, reminder scheduler, and statistics.
+
+### 🔹 Blog API
 REST API for a blogging platform built with FastAPI.  
-Includes authentication, relational database design, and scalable API architecture.
+Includes authentication, relational database design, and scalable architecture.  
+🔗 https://github.com/ShodmonX/blog-api  
 
-### **ToDo API**
+### 🔹 ToDo API
+Task management backend with JWT authentication and role-based access.  
+Built with FastAPI and PostgreSQL.  
 🔗 https://github.com/ShodmonX/todo_api  
-Task management backend using FastAPI and PostgreSQL.  
-JWT authentication, role-based access, status/priority logic, and optimized queries.
 
-### **English Vocabulary Learning API**
-🔗 https://github.com/ShodmonX/english-vocabulary-learning  
-Backend for vocabulary learning and daily tracking.  
-Focus on API design, database relations, and user progress logic.
-
-### **Kitob Telegram Bot**
-🔗 https://github.com/ShodmonX/kitob-bot-aiogram  
-Book recommendation bot with search, ratings, and user interaction logic.
-
-### **ScholarRadar**
-🔗 https://github.com/ShodmonX/scholarradar  
+### 🔹 ScholarRadar
 Backend service for collecting and serving scholarship data.  
-Includes scraping logic, background jobs, and structured API responses.
+Includes scraping, background jobs, and structured API responses.  
+🔗 https://github.com/ShodmonX/scholarradar  
 
 ---
 
 ## ⚙️ Additional Experience
-
-- Background jobs using **Celery + RabbitMQ/Redis**
-- API integrations and automation
-- Web scraping (Selenium, Playwright)
-- Dockerized services
-- Git team workflows
-- Writing unit tests
-- Basic DevOps and deployment
+- Building Telegram bots with async Python  
+- API integrations and automation  
+- Background jobs with Celery  
+- Web scraping (Playwright, Selenium)  
+- Dockerized deployments  
+- Writing unit tests  
+- Database design and query optimization  
 
 ---
 
 ## 🎯 Current Focus
-
 - Production-ready backend systems  
 - Scalable API architecture  
-- Task queues & async processing  
+- Async services and task queues  
 - Performance optimization  
 - Real product development  
 
 ---
 
 ## 📫 Contact
-
-- **Email:** shodmonxolmurodov@gmail.com  
-- **Telegram:** https://t.me/XolmurodovShodmon  
-- **GitHub:** https://github.com/ShodmonX  
-- **Portfolio:** https://shodmon.me  
+- Email: shodmonxolmurodov@gmail.com  
+- Telegram: https://t.me/XolmurodovShodmon  
+- GitHub: https://github.com/ShodmonX  
+- Portfolio: https://shodmon.me  
 
 ---
 
-⭐️ Open to backend opportunities, internships, and product-based teams.
-Feel free to explore my repositories.
+⭐ Open to backend opportunities, freelance work, and product teams.
