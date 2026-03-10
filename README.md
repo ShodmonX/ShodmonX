@@ -63,6 +63,11 @@ Backend service for collecting and serving scholarship data.
 Includes scraping, background jobs, and structured API responses.  
 🔗 https://github.com/ShodmonX/scholarradar  
 
+### 🔹 URLShortener
+Production-oriented URL shortener built with FastAPI, PostgreSQL, Redis, RabbitMQ, and Docker. 
+The implementation is optimized for low-latency redirects, collision-safe code generation, async analytics ingestion, preview enrichment, and horizontal scaling.
+🔗 https://github.com/ShodmonX/url-shortener
+
 ---
 
 ## ⚙️ Additional Experience
