@@ -1,101 +1,86 @@
 # 👋 Hi, I'm Shodmon Xolmurodov
 
-### Python Backend Developer | FastAPI | Telegram Bots | PostgreSQL
+**Database Administrator | PostgreSQL | Oracle | Linux**
 
-Backend developer focused on building production-ready APIs, Telegram bots,  
-and scalable backend systems.
+Database Administrator with production experience in PostgreSQL, Oracle, MongoDB, and Linux environments.
 
-I work with async Python services, PostgreSQL database design, background jobs,
-and Dockerized deployments on VPS. I enjoy building real products and writing
-clean, maintainable backend code.
+I work with database administration, migrations, replication, backup and recovery, monitoring, and performance troubleshooting. I also have a Python backend background that I use for automation and tooling.
 
 ---
 
-## 🛠 Tech Stack
-
-**Backend**
-- Python  
-- FastAPI, Django, Django REST Framework  
-- SQLAlchemy  
-- Async programming  
-- REST API design  
+## 🗄️ Database Administration
 
 **Databases**
-- PostgreSQL  
-- Redis  
-- SQLite  
+- PostgreSQL
+- Oracle Database
+- MongoDB
+- SQL
 
-**Background Jobs & Messaging**
-- Celery  
-- RabbitMQ / Redis  
+**Administration**
+- Backup & Recovery
+- Physical & Logical Replication
+- Database Migration
+- Performance Troubleshooting
+- User & Access Management
 
-**DevOps & Tools**
-- Docker / Docker Compose  
-- Linux / VPS deployment  
-- Git  
-- Basic CI/CD  
+**Monitoring & Systems**
+- Linux
+- Prometheus
+- Grafana
+- PostgreSQL Monitoring
+- Bash
+
+**Programming & Tools**
+- Python
+- FastAPI
+- Django
+- Docker / Docker Compose
+- Git
+
+---
+
+## 💼 Production Experience
+
+Currently working as a **Database Administrator at Webase**.
+
+- Administer **10+ PostgreSQL and 3 Oracle servers**, plus MongoDB, on Linux.
+- Completed **2 full migrations and 5+ production-to-test migrations** with validation.
+- Maintain PostgreSQL **physical and logical replication, backup, and recovery**.
+- Monitor databases with **Prometheus and Grafana** and troubleshoot queries, connections, and waits.
+
+My previous Python backend experience includes building REST APIs and backend services with Python, FastAPI, Django, PostgreSQL, Docker, and Linux.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Telegram AI Moderation Bot
-AI-powered Telegram bot that filters spam and enforces group rules.  
-Built with FastAPI, PostgreSQL, and Docker.  
-Includes async message processing, admin logging, and production deployment.
+### EstateFlow
+Event-driven real-estate aggregation platform built with **PostgreSQL, RabbitMQ, Redis, FastAPI, SQLAlchemy, async workers, and Docker**.
 
-### 🔹 English Vocabulary SRS Bot
-Telegram learning bot using spaced-repetition logic (SM-2).  
-Async FastAPI backend with PostgreSQL, reminder scheduler, and statistics.
+### URL Shortener
+FastAPI URL shortener with **PostgreSQL, Redis caching, RabbitMQ background processing, Alembic migrations, Docker Compose, and automated tests**.
 
-### 🔹 Blog API
-REST API for a blogging platform built with FastAPI.  
-Includes authentication, relational database design, and scalable architecture.  
-🔗 https://github.com/ShodmonX/blog-api  
+### Student Knowledge Hub
+Production-oriented FastAPI backend with **PostgreSQL, Redis, async workers, logical backup/restore workflows, security controls, Docker, and CI**.
 
-### 🔹 ToDo API
-Task management backend with JWT authentication and role-based access.  
-Built with FastAPI and PostgreSQL.  
-🔗 https://github.com/ShodmonX/todo_api  
-
-### 🔹 ScholarRadar
-Backend service for collecting and serving scholarship data.  
-Includes scraping, background jobs, and structured API responses.  
-🔗 https://github.com/ShodmonX/scholarradar  
-
-### 🔹 URLShortener
-Production-oriented URL shortener built with FastAPI, PostgreSQL, Redis, RabbitMQ, and Docker. 
-The implementation is optimized for low-latency redirects, collision-safe code generation, async analytics ingestion, preview enrichment, and horizontal scaling.
-🔗 https://github.com/ShodmonX/url-shortener
-
----
-
-## ⚙️ Additional Experience
-- Building Telegram bots with async Python  
-- API integrations and automation  
-- Background jobs with Celery  
-- Web scraping (Playwright, Selenium)  
-- Dockerized deployments  
-- Writing unit tests  
-- Database design and query optimization  
+### Ticket Track
+Asynchronous Telegram ticket monitoring application backed by **PostgreSQL, SQLAlchemy, Alembic, Redis, and Docker**, with scheduled background tracking and automated tests.
 
 ---
 
 ## 🎯 Current Focus
-- Production-ready backend systems  
-- Scalable API architecture  
-- Async services and task queues  
-- Performance optimization  
-- Real product development  
+
+- PostgreSQL administration
+- Backup, recovery & PITR
+- Physical & logical replication
+- Database monitoring & performance troubleshooting
+- Linux administration
+- Database automation with Python
 
 ---
 
 ## 📫 Contact
-- Email: shodmonxolmurodov@gmail.com  
-- Telegram: https://t.me/XolmurodovShodmon  
-- GitHub: https://github.com/ShodmonX  
-- Portfolio: https://shodmon.me  
 
----
-
-⭐ Open to backend opportunities, freelance work, and product teams.
+- Portfolio: https://shodmon.me
+- LinkedIn: https://linkedin.com/in/shodmonx
+- Email: shodmonxolmurodov@gmail.com
