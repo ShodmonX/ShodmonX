@@ -54,16 +54,19 @@ My previous Python backend experience includes building REST APIs and backend se
 
 ## 🚀 Featured Projects
 
-### EstateFlow
+### [PostgreSQL Backup & Recovery Lab](https://github.com/ShodmonX/postgresql-backup-recovery)
+Production-like PostgreSQL lab demonstrating **streaming replication, Barman backups, continuous WAL archiving, PITR, recovery verification, and automated Vagrant/VMware workflows**.
+
+### [EstateFlow](https://github.com/ShodmonX/EstateFlow)
 Event-driven real-estate aggregation platform built with **PostgreSQL, RabbitMQ, Redis, FastAPI, SQLAlchemy, async workers, and Docker**.
 
-### URL Shortener
+### [URL Shortener](https://github.com/ShodmonX/url-shortener)
 FastAPI URL shortener with **PostgreSQL, Redis caching, RabbitMQ background processing, Alembic migrations, Docker Compose, and automated tests**.
 
-### Student Knowledge Hub
+### [Student Knowledge Hub](https://github.com/ShodmonX/student-knowledge-hub)
 Production-oriented FastAPI backend with **PostgreSQL, Redis, async workers, logical backup/restore workflows, security controls, Docker, and CI**.
 
-### Ticket Track
+### [Ticket Track](https://github.com/ShodmonX/ticket-track)
 Asynchronous Telegram ticket monitoring application backed by **PostgreSQL, SQLAlchemy, Alembic, Redis, and Docker**, with scheduled background tracking and automated tests.
 
 ---
